@@ -1,3 +1,33 @@
+
+
+###
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVoMWtkYWRuY3hnd3J3OXEwMG0zd3NpNWRyMHpxZW5yaHkzdnB1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/plSVSPP7fWzGbX2x37/giphy.gif"  />
+
+###
+
+<img align="left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRxYmRtcnp4cnhjMXU2MXhyM2FweWR3bHB6NzgzZ3FranpzcGpjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y029AnJtAQhO5Jm9Ed/giphy.gif"  />
+
+###
+
+
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+
+
+
+
+
+
+
 <h1 align="center">Hi Dev 👀, I'm Abhishek Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
